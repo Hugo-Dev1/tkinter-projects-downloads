@@ -19,7 +19,7 @@ Colección de aplicaciones de escritorio desarrolladas con Python y Tkinter, dis
 - 🎨 Interfaz intuitiva y fácil de usar
 - ⚡ Ejecución rápida y ligera
 
-**Descarga:** [gestor_tareas.exe](https://github.com/Hugo-Dev1/tkinter-projects-downloads/releases/latest/download/gestor_tareas.exe)
+**Descarga:** [gestor_tareas.exe](https://github.com/Hugo-Dev1/tkinter-projects-downloads/releases/download/v1.0.0/gestor_tareas.exe)
 
 **Código fuente:** [Ver en GitHub](https://github.com/Hugo-Dev1/portfolio/blob/main/projects/task-manager/db.py)
 
