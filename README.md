@@ -2,6 +2,11 @@
 
 Colección de aplicaciones de escritorio desarrolladas con Python y Tkinter, disponibles para descarga directa.
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)](https://docs.python.org/3/library/tkinter.html)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
+
 ## 📱 Aplicaciones Disponibles
 
 ### 1. 📝 Gestor de Tareas
