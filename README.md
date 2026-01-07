@@ -160,7 +160,7 @@ Si encuentras algún bug o tienes sugerencias:
 ## 👨‍💻 Autor
 
 **Hugo Muñoz**
-- 🌐 Portafolio: [hugomunoz.dev](#)
+- 🌐 Portafolio: [hugomunoz.dev](https://hugomunoz.dev/)
 - 💼 LinkedIn: [Hugo Muñoz](https://www.linkedin.com/in/hugo-muñoz-ti)
 - 📧 Email: hugomunozve@gmail.com
 - 🐙 GitHub: [@Hugo-Dev1](https://github.com/Hugo-Dev1)
