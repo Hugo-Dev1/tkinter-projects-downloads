@@ -35,7 +35,7 @@ Colección de aplicaciones de escritorio desarrolladas con Python y Tkinter, dis
 - 💼 Historial de interacciones
 - 🗃️ Base de datos SQLite integrada
 
-**Descarga:** [libreta_clientes.exe](https://github.com/Hugo-Dev1/tkinter-projects-downloads/releases/latest/download/libreta_clientes.exe)
+**Descarga:** [libreta_clientes.exe](https://github.com/Hugo-Dev1/tkinter-projects-downloads/releases/download/v1.0.0/libreta_clientes.exe)
 
 **Código fuente:** [Ver en GitHub](https://github.com/Hugo-Dev1/portfolio/blob/main/projects/customer-manager/libreta_clientes.py)
 
